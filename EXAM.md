@@ -53,11 +53,7 @@ The instructor will provide a synthetic value for `CAMPAIGN_ACCESS_TOKEN`.
 Configure it locally so that you can run the application. The value is for this
 evaluation only.
 
-Run the configured application command with:
 
-```bash
-uv run campaign-validator
-```
 
 ## README starting context
 

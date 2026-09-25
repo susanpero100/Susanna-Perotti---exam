@@ -46,5 +46,3 @@ Document the investigation trail for the bonus question:
 4. What configuration did you change, and how did you verify that every existing
    rule remained enabled?
 5. What new diagnostic appeared after the configuration change?
-6. What source correction resolved it without a suppression?
-7. Which final checks demonstrate that both the policy and behavior are correct?
